@@ -1,3 +1,10 @@
 welcome to git repository learnings
+<<<<<<< HEAD
 this is your first demo.
 this is small change 
+=======
+this is your first demo
+jhgbjkhj
+lines 
+added
+>>>>>>> 9336e5583d3e8ad6a501457c5893706f0607adbe
